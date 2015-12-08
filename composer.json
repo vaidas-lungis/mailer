@@ -1,5 +1,5 @@
 {
-    "name": "vaidas/mailer",
+    "name": "vaidas-lungis/mailer",
     "type": "library",
     "description": "Create formatted notifications",
     "license": "MIT",
