@@ -1,0 +1,13 @@
+{
+    "name": "vaidas/mailer",
+    "type": "library",
+    "description": "Create formatted notifications",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vaidas-lungis",
+            "email": "vaidas.lungis+github@gmail.com"
+        }
+    ],
+    "require": {}
+}
