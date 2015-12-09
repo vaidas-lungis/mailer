@@ -12,9 +12,7 @@
     "require": {},
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {
-            "vaidaslungis\\Mailer\\": "src"
-        }
+        "psr-4": {"Mailer\\": "src/"}
     }
 
 }
