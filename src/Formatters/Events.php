@@ -33,7 +33,7 @@ class Events implements MessageFormatter
 
 
     /**
-     * @return string
+     * @return array
      */
     public function format()
     {
@@ -49,7 +49,7 @@ class Events implements MessageFormatter
             ),
             'vars' => $this->message->getExtras(),
         );
-        return json_encode($out);
+        return $out;
     }
 
 }

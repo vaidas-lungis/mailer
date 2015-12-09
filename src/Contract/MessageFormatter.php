@@ -13,7 +13,7 @@ interface MessageFormatter
     public function setMessage(Messageable $message);
 
     /**
-     * @return string
+     * @return array
      */
     public function format();
 }
